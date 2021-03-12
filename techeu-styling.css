@@ -22554,10 +22554,6 @@ html .theme-entry .SourceCode-Forms-Controls-Web-ControlPack-MultiChoice {
   border-color: var(--Input-Active-Border);
 }
 
-.theme-entry .theme-entry .control-group-container.input-control.text-input .input-control-m-c {
-  border: 2px solid var(--Input-Border-Color) !important;
-}
-
 .theme-entry .theme-entry div.input-control.active.datepicker, .theme-entry .theme-entry div.input-control.active.select-box, .theme-entry .theme-entry .filterContainer .quickSearch .filterTxt .input-control.active .input-control-m-c, .theme-entry .theme-entry .filterContainer div.input-control.active.select-box, .theme-entry .theme-entry .grid .grid-paging-control.active .input-control, .theme-entry .theme-entry .file-wrapper:active, .theme-entry .theme-entry .SFC.SourceCode-Forms-Controls-Web-TextBox.focus, .theme-entry .theme-entry .SFC .SourceCode-Forms-Controls-Web-ControlPack-ListBox:active, .theme-entry .theme-entry .input-control.text-input.active .input-control-m-c, .theme-entry .theme-entry .control-group-container.input-control.text-input .input-control-m-c:active {
   border-color: var(--Input-Active-Border) !important;
 }
