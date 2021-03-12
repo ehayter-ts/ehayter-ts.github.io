@@ -23438,13 +23438,13 @@ html .theme-entry .theme-entry .tab-box ul.tab-box-tabs a.tab.selected:hover .ta
 
 :root {
   /*Theme Color Variables*/
-  --Primary: #6C4AE9;
-  --Primary-Light: #C5BAED;
-  --Primary-Dark: #4B33A7;
-  --Primary-Very-Light: #BEB7DB;
-  --Secondary: #397BE6;
-  --Secondary-Light: #739FE4;
-  --Secondary-Dark: #23529B;
+  --Primary: #404040;
+  --Primary-Light: #757575;
+  --Primary-Dark: #030202;
+  --Primary-Very-Light: #A6A5A5;
+  --Secondary: #005FA6;
+  --Secondary-Light: #0084EA;
+  --Secondary-Dark: #004C86;
   --On-Primary: #fff;
   --On-Primary-Light: #FFFFFF;
   --On-Primary-Dark: #fff;
