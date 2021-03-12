@@ -23484,8 +23484,8 @@ html .theme-entry .theme-entry .tab-box ul.tab-box-tabs a.tab.selected:hover .ta
   --Button-Hover-Border-Color: var(--Primary);
   --Button-Text-Color: var(--On-Primary);
   --Button-Text-Color-2: var(--On-Secondary-Light);
-  --Button-Background-Color: var(--Primary-Dark);
-  --Quiet-Button-Hover-Text-Color: var(--Primary);
+  --Button-Background-Color: var(--Primary);
+  --Quiet-Button-Hover-Text-Color: var(--Primary-Dark);
   /*May want to ask Lewis about -Primary-Button-Hover-Text-Color*/
   --Primary-Button-Focus-Background-Color: var(--Primary-Dark);
   /* Not used but active  */
