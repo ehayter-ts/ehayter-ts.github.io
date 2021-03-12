@@ -1598,7 +1598,7 @@ html[dir=rtl] .theme-entry .input-control.select-box.picker-input.hide-buttons .
 }
 
 .theme-entry .panel.without-header.without-toolbar>.panel-body, .theme-entry .panel.without-header.with-toolbar>.panel-body, .theme-entry .panel.with-header.without-toolbar>.panel-body {
-  border: 3px solid var(--Secondary);
+  border: none;
 }
 
 .theme-entry .dialog.runtime-message .panel-header-text
@@ -3595,7 +3595,7 @@ html .theme-entry .SourceCode-Forms-Controls-Web-ControlPack-HTMLEditor, html .t
 }
 
 html .theme-entry .SourceCode-Forms-Controls-Web-ControlPack-HTMLEditor {
-  border: 2px solid var(--Input-Border-Color);
+  border: 1px solid var(--Input-Border-Color);
   border-radius: 3px;
 }
 
@@ -22494,7 +22494,7 @@ body.theme-entry {
   padding-right: 15px;
   padding-bottom: 17px;
   padding-left: 15px;
-  border: 2px solid var(--Input-Border-Color);
+  border: 1px solid var(--Input-Border-Color);
   box-sizing: border-box;
   font-size: 1.4rem;
   width: calc(100% - 2px);
@@ -22507,7 +22507,7 @@ body.theme-entry {
   padding-right: 15px;
   padding-bottom: 17px;
   padding-left: 15px;
-  border: 2px solid var(--Input-Border-Color);
+  border: 1px solid var(--Input-Border-Color);
   box-sizing: border-box;
   font-size: 1.4rem;
   width: calc(100% - 2px);
@@ -22536,7 +22536,7 @@ html .theme-entry .SourceCode-Forms-Controls-Web-ControlPack-ListBox .stylewrapp
 
 .theme-entry .theme-entry div.input-control.datepicker, .theme-entry .theme-entry div.input-control.select-box {
   border-radius: 3px;
-  border: 2px solid var(--Input-Border-Color);
+  border: 1px solid var(--Input-Border-Color);
   box-sizing: border-box;
   font-size: 1.4rem;
   width: calc(100% - 2px);
@@ -22546,7 +22546,7 @@ html .theme-entry .SourceCode-Forms-Controls-Web-ControlPack-ListBox .stylewrapp
 
 html .theme-entry .SourceCode-Forms-Controls-Web-ControlPack-MultiChoice {
   box-shadow: unset;
-  border: 2px solid var(--Input-Border-Color);
+  border: 1px solid var(--Input-Border-Color);
   border-radius: 3px;
 }
 
@@ -22567,7 +22567,7 @@ html .theme-entry .SourceCode-Forms-Controls-Web-ControlPack-MultiChoice {
 .theme-entry .theme-entry .SourceCode-Forms-Controls-Web-ControlPack-MultiChoice .stylewrapper .destinationtitle {
   font-family: var(--input-text-font-family);
   text-transform: none;
-  border: 2px solid var(--Input-Border-Color);
+  border: 1px solid var(--Input-Border-Color);
   box-sizing: border-box;
   font-size: 1.4rem;
 }
@@ -23408,7 +23408,7 @@ html .theme-entry .theme-entry .tab-box ul.tab-box-tabs a.tab.selected:hover .ta
   padding-right: 15px;
   padding-bottom: 17px;
   padding-left: 15px;
-  border: 2px solid var(--Input-Border-Color);
+  border: 1px solid var(--Input-Border-Color);
   box-sizing: border-box;
   font-size: 1.4rem;
   width: calc(100% - 2px);
