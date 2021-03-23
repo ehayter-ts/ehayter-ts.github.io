@@ -226,3 +226,7 @@ html .runtime-form.theme-entry .tab-box .form {
 .theme-entry .toolbars.double .toolbar {
     height: 60px;
 }
+
+.theme-entry .filterContainer .quickSearch .filterTxt .input-control input[type=text].input-control {
+    height: 30px !important;
+}
