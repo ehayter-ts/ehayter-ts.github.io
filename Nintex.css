@@ -97,7 +97,9 @@ html .theme-entry input.SFC.SourceCode-Forms-Controls-Web-TextBox {
     font-size: 12px !important;
 }
 
-html .theme-entry input.SFC.SourceCode-Forms-Controls-Web-TextBox.focus {
+html .theme-entry input.SFC.SourceCode-Forms-Controls-Web-TextBox.focus,
+html .theme-entry .double-buttons:focus-within .styling-outer-wrapper,
+.theme-entry .input-control.select-box.dropdown-box.active .styling-outer-wrapper {
     color: #5b5b5b;
     background-color: #fff;
     border-color: #006BD6;
@@ -146,8 +148,8 @@ html .theme-entry .input-control.text-input.active .input-control-m-c {
 }
 
 .theme-entry a.SourceCode-Forms-Controls-Web-Button:hover:focus, 
-.theme-entry a.SourceCode-Forms-Controls-Web-Button:hover,
-html .theme-entry .double-buttons .styling-outer-wrapper:focus-within {
+.theme-entry a.SourceCode-Forms-Controls-Web-Button:hover
+{
     background-color: #3389de !important;
 }
 
