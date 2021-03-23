@@ -22,3 +22,16 @@ body.theme-entry {
     height: calc(100% - 10px) !important;
     min-height: calc(100% - 10px);
 }
+
+.theme-entry .grid-header-wrapper .grid-header-text, .theme-entry .panel-header-wrapper .panel-header-text, .theme-entry .grid-header-wrapper .grid-header-text>span, .theme-entry .panel-header-wrapper .panel-header-text>span {
+    color: #575C61 !important;
+}
+
+.theme-entry span {
+    font-family: "Open Sans", "Helvetica", "Arial", sans-serif !important;
+    font-size: 14px !important;
+}
+
+body {
+    line-height: 1.3;
+}
