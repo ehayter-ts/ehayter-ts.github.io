@@ -226,3 +226,8 @@ html .runtime-form.theme-entry .tab-box .form {
 .theme-entry .filterContainer .quickSearch .filterTxt .input-control input[type=text].input-control {
     height: 30px !important;
 }
+
+html .theme-entry .filterContainer {
+    line-height: unset !important;
+    margin-top: 2px !important;
+}
