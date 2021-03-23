@@ -1,0 +1,24 @@
+html, form, .form, .runtime-content {
+    height: 100%;
+}
+
+html, html body.theme-entry, .runtime-form {
+    background-color: #EFF0F0 !important;
+}
+
+html body .runtime-content {
+    margin: 0px !important;
+}
+
+html .runtime-form.theme-entry .form {
+    margin: 10px;
+    padding: 25px;
+    background-color: #FFFFFF;
+    border: 1px solid #898F94;
+    box-shadow: 2px 2px 4px 0 rgb(0 0 0 / 10%);
+}
+
+body.theme-entry {
+    height: calc(100% - 10px) !important;
+    min-height: calc(100% - 10px);
+}
