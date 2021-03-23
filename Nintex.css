@@ -127,8 +127,8 @@ html .theme-entry .input-control textarea {
     border-radius: 4px !important;
     display: block;
     width: calc(100% - 1.5rem);
-    padding: .4375rem .75rem;
-    font-size: .875rem;
+    padding: 10px;
+    font-size: 12px !important;
 }
 
 html .theme-entry .input-control.text-input.active .input-control-m-c {
