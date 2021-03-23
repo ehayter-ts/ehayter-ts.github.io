@@ -156,11 +156,12 @@ html .theme-entry .input-control.text-input.active .input-control-m-c {
 html .theme-entry h4 {
     margin: 0;
     padding: 0;
-    font-weight: 700;
+    font-weight: 700 !important;
+    color: #575C61 !important;
     line-height: 1;
     border-bottom: 0;
     word-wrap: break-word;
     white-space: pre-wrap;
-    font-size: 24px;
+    font-size: 24px !important;
     font-family: "Open Sans", "Helvetica", "Arial", sans-serif !important;
 }
