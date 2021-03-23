@@ -109,14 +109,12 @@ html .theme-entry .input-control.text-input .input-control-m-c {
     border-color: #898F94;
     display: block;
     width: calc(100% - 0.4rem);
-    height: 135px;
     color: #5b5b5b;
     background-color: #fff;
     border-radius: 4px;
 }
 
 html .theme-entry .input-control textarea {
-    height: 135px;
     width: calc(100% - 20px);
     caret-color: #5B5B5B;
     color: #5B5B5B;
@@ -126,10 +124,8 @@ html .theme-entry .input-control textarea {
     border-radius: 4px !important;
     display: block;
     width: calc(100% - 1.5rem);
-    height: calc(135px - 1rem);
     padding: .4375rem .75rem;
     font-size: .875rem;
-    min-height: calc(135px - 1rem);
 }
 
 html .theme-entry .input-control.text-input.active .input-control-m-c {
