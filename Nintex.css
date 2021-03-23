@@ -165,3 +165,45 @@ html .theme-entry h4 {
     font-size: 24px !important;
     font-family: "Open Sans", "Helvetica", "Arial", sans-serif !important;
 }
+
+html[dir=ltr] .theme-entry .input-control.select-box .input-control-m-c {
+    border-right-width: unset;
+    border-left-color: none;
+    border-top-color: none;
+    border-bottom: none;
+}
+
+html .theme-entry .styling-outer-wrapper {
+    height: 30px !important;
+    border: 1px solid #898F94 !important;
+    border-radius: 4px;
+    display: block !important;
+    line-height: 30px;
+}
+
+html .theme-entry .input-control.select-box .input-control-buttons {
+    border: none;
+}
+
+.theme-entry .input-control.select-box .input-control-buttons a {
+    height: 26px !important;
+    line-height: 26px !important;
+    padding-top: 4px;
+}
+
+.theme-entry .input-control.select-box.double-buttons .input-control-m-c {
+    height: 28px !important;
+    line-height: 28px !important;
+}
+
+.theme-entry .input-control.select-box.double-buttons.picker-input .input-control-m-c .input-control-wrapper {
+    height: 100%;
+    line-height: 30px !important;
+}
+
+.theme-entry .input-control.select-box.picker-input .input-control-watermark, .theme-entry .input-control.select-box.picker-input div.editable-area, .theme-entry .input-control.select-box.picker-input input[type=text], .theme-entry .id-picker-search .input-control.select-box input[type=text] {
+    line-height: 27px;
+    font-size: 12px !important;
+    height: 27px !important;
+    padding-left: 10px;
+}
