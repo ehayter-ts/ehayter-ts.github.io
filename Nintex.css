@@ -158,3 +158,15 @@ html .theme-entry .panel-header-wrapper .panel-header-text {
 .theme-entry a.SourceCode-Forms-Controls-Web-Button:hover:focus, .theme-entry a.SourceCode-Forms-Controls-Web-Button:hover {
     background-color: #3389de !important;
 }
+
+html .theme-entry h4 {
+    margin: 0;
+    padding: 0;
+    font-weight: 700;
+    line-height: 1;
+    border-bottom: 0;
+    word-wrap: break-word;
+    white-space: pre-wrap;
+    font-size: 24px;
+    font-family: "Open Sans", "Helvetica", "Arial", sans-serif !important;
+}
