@@ -74,7 +74,8 @@ html .theme-entry .panel-header div, html .theme-entry .grid-header-wrapper div 
     border-color: #898F94;
 }
 
-html .theme-entry .panel-header-wrapper .panel-header-text {
+html .theme-entry .panel-header-wrapper .panel-header-text,
+html .theme-entry .grid-header-wrapper .grid-header-text {
     border-bottom: solid 1px #898F94;
     background-color: #e6f0fb !important;
     border-top-left-radius: 4px;
