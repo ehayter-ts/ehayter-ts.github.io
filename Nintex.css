@@ -207,3 +207,17 @@ html .theme-entry .input-control.select-box .input-control-buttons {
     height: 27px !important;
     padding-left: 10px;
 }
+
+.theme-entry .tab-box {
+    background-color: white;
+    margin: 10px;
+    padding: 25px;
+    border: 1px solid #898F94;
+    box-shadow: 2px 2px 4px 0 rgb(0 0 0 / 10%);
+}
+
+html .runtime-form.theme-entry .tab-box .form {
+    box-shadow: unset !important;
+    margin-top: 30px;
+    border-radius: 4px;
+}
