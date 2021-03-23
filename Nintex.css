@@ -94,7 +94,7 @@ html .theme-entry input.SFC.SourceCode-Forms-Controls-Web-TextBox {
     font-size: .875rem;
     font-weight: 400;
     line-height: 1.25;
-    border: 1px solid #cbcbcb;
+    border: 1px solid #898F94;
 }
 
 html .theme-entry input.SFC.SourceCode-Forms-Controls-Web-TextBox.focus {
@@ -106,7 +106,7 @@ html .theme-entry input.SFC.SourceCode-Forms-Controls-Web-TextBox.focus {
 }
 
 html .theme-entry .input-control.text-input .input-control-m-c {
-    border-color: #cbcbcb;
+    border-color: #898F94;
     display: block;
     width: calc(100% - 0.4rem);
     height: 135px;
@@ -120,7 +120,7 @@ html .theme-entry .input-control textarea {
     width: calc(100% - 20px);
     caret-color: #5B5B5B;
     color: #5B5B5B;
-    border-color: #cbcbcb;
+    border-color: #898F94;
     font-family: "Open Sans", "Helvetica", "Arial", sans-serif;
     background: #FFFFFF;
     border-radius: 4px !important;
