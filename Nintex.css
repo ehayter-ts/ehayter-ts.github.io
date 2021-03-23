@@ -222,3 +222,7 @@ html .runtime-form.theme-entry .tab-box .form {
     margin-top: 30px;
     border-radius: 4px;
 }
+
+.theme-entry .toolbars.double .toolbar {
+    height: 60px;
+}
