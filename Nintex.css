@@ -81,7 +81,7 @@ html .theme-entry .panel-header-wrapper .panel-header-text {
     border-top-right-radius: 4px;
 }
 
->.theme-entry input.SFC.SourceCode-Forms-Controls-Web-TextBox {
+html .theme-entry input.SFC.SourceCode-Forms-Controls-Web-TextBox {
     caret-color: #5B5B5B;
     color: #5B5B5B;
     font-family: "Open Sans", "Helvetica", "Arial", sans-serif;
@@ -97,7 +97,7 @@ html .theme-entry .panel-header-wrapper .panel-header-text {
     border: 1px solid #cbcbcb;
 }
 
-.theme-entry input.SFC.SourceCode-Forms-Controls-Web-TextBox.focus {
+html .theme-entry input.SFC.SourceCode-Forms-Controls-Web-TextBox.focus {
     color: #5b5b5b;
     background-color: #fff;
     border-color: #006BD6;
@@ -105,7 +105,7 @@ html .theme-entry .panel-header-wrapper .panel-header-text {
     box-shadow: none;
 }
 
-.theme-entry .input-control.text-input .input-control-m-c {
+html .theme-entry .input-control.text-input .input-control-m-c {
     border-color: #cbcbcb;
     display: block;
     width: calc(100% - 0.4rem);
@@ -115,7 +115,7 @@ html .theme-entry .panel-header-wrapper .panel-header-text {
     border-radius: 4px;
 }
 
-.theme-entry .input-control textarea {
+html .theme-entry .input-control textarea {
     height: 135px;
     width: calc(100% - 20px);
     caret-color: #5B5B5B;
@@ -132,18 +132,12 @@ html .theme-entry .panel-header-wrapper .panel-header-text {
     min-height: calc(135px - 1rem);
 }
 
-.theme-entry .input-control.text-input.active .input-control-m-c {
+html .theme-entry .input-control.text-input.active .input-control-m-c {
     color: #5b5b5b;
     background-color: #fff;
     border-color: #006BD6;
     outline: 0;
     box-shadow: none;
-}
-
-.theme-entry span.SourceCode-Forms-Controls-Web-Label {
-    color: #5B5B5B;
-    font-family: "Open Sans", "Helvetica", "Arial", sans-serif;
-    font-size: 14px;
 }
 
 .theme-entry a.SourceCode-Forms-Controls-Web-Button, .theme-entry a.SourceCode-Forms-Controls-Web-Button.disabled, .theme-entry a.SourceCode-Forms-Controls-Web-Button.disabled:hover, .theme-entry a.SourceCode-Forms-Controls-Web-Button.disabled:focus, .theme-entry a.SourceCode-Forms-Controls-Web-Button.disabled:active, .theme-entry a.SourceCode-Forms-Controls-Web-Button.disabled:hover:focus, .theme-entry a.SourceCode-Forms-Controls-Web-Button.disabled:hover:active, .theme-entry a.SourceCode-Forms-Controls-Web-Button.designtime, .theme-entry a.SourceCode-Forms-Controls-Web-Button.designtime:hover, .theme-entry a.SourceCode-Forms-Controls-Web-Button.designtime:focus, .theme-entry a.SourceCode-Forms-Controls-Web-Button.designtime:active, .theme-entry a.SourceCode-Forms-Controls-Web-Button.designtime:hover:focus, .theme-entry a.SourceCode-Forms-Controls-Web-Button.designtime:hover:active, .theme-entry a.SourceCode-Forms-Controls-Web-Button.preview, .theme-entry a.SourceCode-Forms-Controls-Web-Button.preview:hover, .theme-entry a.SourceCode-Forms-Controls-Web-Button.preview:focus, .theme-entry a.SourceCode-Forms-Controls-Web-Button.preview:active, .theme-entry a.SourceCode-Forms-Controls-Web-Button.preview:hover:focus, .theme-entry a.SourceCode-Forms-Controls-Web-Button.preview:hover:active {
